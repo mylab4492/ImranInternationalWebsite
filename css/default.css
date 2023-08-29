@@ -104,6 +104,21 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 400;
 	color: #000000;
 }
+.portfolio-menu{
+	text-align:center;
+}
+.portfolio-menu ul li{
+	display:inline-block;
+	margin:0;
+	list-style:none;
+	padding:10px 15px;
+	cursor:pointer;
+	-webkit-transition:all 05s ease;
+	-moz-transition:all 05s ease;
+	-ms-transition:all 05s ease;
+	-o-transition:all 05s ease;
+	transition:all .5s ease;
+}
 .text-white h1, .text-white h2, .text-white h3, .text-white h4, .text-white h5, .text-white h6 {
 	color: #ffffff;
 }
