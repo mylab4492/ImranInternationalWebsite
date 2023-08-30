@@ -695,8 +695,8 @@ ul.nav li:hover > ul.dropdown-menu {
 }
 .flat-header .header-content {
 	position: relative;
-	text-align: center;
-	padding: 80px 15px 100px;
+	text-align: end;
+	padding: 0px 200px 200px;
 	width: 100%;
 }
 .flat-header .homeHeading {
